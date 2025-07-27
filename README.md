@@ -1,4 +1,3 @@
----
 
 ```markdown
 # Full Stack Web Application (MEAN Stack)
@@ -114,46 +113,6 @@ The app will open in your browser at `http://localhost:4200`.
 * Backend uses JWT for user login and session validation.
 * Frontend Angular app stores JWT in local storage.
 * Secure routes protected using middleware.
-
----
-
-## 📁 Modules Overview
-
-### ✅ Module 1: Environment Setup
-
-* Node.js, NPM, MongoDB, Git, VS Code, DBeaver, Postman
-* Created a static HTML website
-
-### ✅ Module 2: MVC Routing
-
-* Created Express app with separate controllers and routes
-* Used Handlebars for templating
-
-### ✅ Module 3: Templating with JSON
-
-* Switched static HTML to dynamic templates
-* Loaded data from JSON
-
-### ✅ Module 4: MongoDB Integration
-
-* Configured Mongoose schemas
-* Seeded initial data
-
-### ✅ Module 5: RESTful API
-
-* Built complete RESTful endpoints
-* Connected backend to public site
-
-### ✅ Module 6: Angular SPA
-
-* Admin dashboard with listing/editing trips
-* Integrated Angular services for backend communication
-
-### ✅ Module 7: Security
-
-* User registration and login
-* Secured backend API
-* Authentication integrated into Angular frontend
 
 ---
 
