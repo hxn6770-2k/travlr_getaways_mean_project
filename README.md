@@ -4,23 +4,6 @@ A robust full-stack web application built with the MEAN stack (MongoDB, Express.
 
 ---
 
-## 📁 Project Structure
-
-root/
-├── backend/ # Node.js + Express API server
-│ ├── controllers/ # API logic
-│ ├── models/ # Mongoose schemas
-│ └── routes/ # Express routes
-├── frontend/ # Angular SPA (admin dashboard)
-│ └── src/app/
-│ ├── components/ # UI components
-│ ├── services/ # API integrations
-│ └── auth/ # Auth logic
-├── public/ # Static HTML site
-├── scripts/ # DB seeder scripts or utilities
-└── README.md
----
-
 ## 🚀 Features
 
 - RESTful API using Node.js/Express with MVC structure
