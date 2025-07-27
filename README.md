@@ -1,6 +1,4 @@
-
-```markdown
-# 🌐 Full Stack Web Application (MEAN Stack)
+## 🌐 Full Stack Web Application (MEAN Stack)
 
 A robust full-stack web application built with the MEAN stack (MongoDB, Express.js, Angular, Node.js). Structured into modular development phases, the project evolves from a basic static site to a secure, dynamic Single Page Application (SPA) with RESTful APIs and MongoDB.
 
@@ -8,24 +6,19 @@ A robust full-stack web application built with the MEAN stack (MongoDB, Express.
 
 ## 📁 Project Structure
 
-```
-
 root/
-├── backend/             # Node.js + Express API server
-│   ├── controllers/     # API logic
-│   ├── models/          # Mongoose schemas
-│   └── routes/          # Express routes
-├── frontend/            # Angular SPA (admin dashboard)
-│   └── src/app/
-│       ├── components/  # UI components
-│       ├── services/    # API integrations
-│       └── auth/        # Auth logic
-├── public/              # Static HTML site
-├── scripts/             # DB seeder scripts or utilities
+├── backend/ # Node.js + Express API server
+│ ├── controllers/ # API logic
+│ ├── models/ # Mongoose schemas
+│ └── routes/ # Express routes
+├── frontend/ # Angular SPA (admin dashboard)
+│ └── src/app/
+│ ├── components/ # UI components
+│ ├── services/ # API integrations
+│ └── auth/ # Auth logic
+├── public/ # Static HTML site
+├── scripts/ # DB seeder scripts or utilities
 └── README.md
-
-````
-
 ---
 
 ## 🚀 Features
